@@ -1,0 +1,59 @@
+* {
+    margin: 5px;
+    padding: 5px;
+}
+
+body {
+    background-color: blanchedalmond;
+    width: 900px;
+    margin: 15px auto;
+}
+
+div {
+    border: 3px blanchedalmond;
+    background-color: burlywood;
+    border-radius: 10px;
+}
+
+h1 {
+    font-size: 54px;
+    font-family: 'Lucida Sans';
+    color: palevioletred;
+    font-style: italic;
+    text-align: center;
+}
+
+h2 {
+    font-style: italic;
+    padding: 3px;
+}
+
+header footer article section {
+    display: block;
+}
+
+h3 {
+    padding: 3px;
+    margin: 0px;
+}
+
+article {
+    font-family: Verdana;
+    margin: 50px;
+    width: 400px;
+    padding: 10px;
+}
+
+li {
+    display: inline-block;
+}
+
+header {
+    border: 3px antiquewhite solid;
+    border-radius: 5px;
+    background-color: antiquewhite;
+}
+
+footer {
+
+}
